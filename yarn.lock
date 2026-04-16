@@ -579,8 +579,8 @@ __metadata:
   linkType: hard
 
 "@metamask/create-release-branch@npm:^4.1.1":
-  version: 4.1.1
-  resolution: "@metamask/create-release-branch@npm:4.1.1"
+  version: 4.1.4
+  resolution: "@metamask/create-release-branch@npm:4.1.4"
   dependencies:
     "@metamask/action-utils": "npm:^1.0.0"
     "@metamask/auto-changelog": "npm:^4.0.0"
@@ -599,7 +599,7 @@ __metadata:
     prettier: ">=3.0.0"
   bin:
     create-release-branch: bin/create-release-branch.js
-  checksum: 10/b0b3ee2cd6f8cbb2b39df8e9e68e8cee50e32ff7a754f65a76deeaa637737ca690ddd7fa300d860370e481ca881f2df39e4efb4b96d1892db39bba61e2c75416
+  checksum: 10/91282f9f20f576332bd88771988e58739e1dc7088068c74d54c5a3910bdab2e74c1f75b2205bdfa59a114dd18329d1080e04aada344b671348017c021edc82bc
   languageName: node
   linkType: hard
 
